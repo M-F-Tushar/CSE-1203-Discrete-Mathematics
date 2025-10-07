@@ -1,0 +1,11 @@
+4. Translate following sentences into propositional logic: -
+
+I. If the machine is on, then the light is on, but the light is not on.
+
+II. If Alice goes to the meeting, then Bob will go only if Charlie does not go.
+
+III. If the code compiles and passes all tests, then it is ready for deployment; otherwise, it is not.
+
+IV. The software is secure if and only if both encryption is enabled and authentication is required.
+
+V. If either the firewall fails or the antivirus is disabled, then the system is vulnerable, but the antivirus is not disabled.
